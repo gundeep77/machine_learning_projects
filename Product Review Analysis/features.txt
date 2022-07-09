@@ -1,0 +1,9 @@
+battery
+processor
+camera
+memory
+charging
+display
+price
+charger
+speed
